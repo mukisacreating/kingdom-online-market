@@ -4,9 +4,7 @@
 
 Buy. Sell. Learn. Connect. Build.
 
-A marketplace inside the church community where members sell, members buy, and members learn to build businesses — with trust as the product.
-
-This site is for people in the church. We do not buy from strangers when the same work already lives inside the walls.
+A marketplace for the church family, where members can sell to one another, buy from people they already know and trust, and learn how to start and grow a business. The heart of this work is trust: we would rather support the gifts and businesses already in our fellowship than look first to people we do not yet know.
 
 ## Open the website
 
@@ -22,17 +20,30 @@ Turn Pages on (once):
 4. Branch: **main**, folder: **/ (root)**
 5. Save. Wait about a minute, then open the link above.
 
-Anyone with the link can browse, search, add to cart, post a stall, share a business idea, and walk Kingdom Learn. Member faces, products, and Ugandan towns are already on the walls.
+## What to try
 
-## What is on the walls
+1. **Choose a church Kingdom Market** — Kampala, Wakiso, Mukono, Jinja, Mbale or Entebbe. Each church sees only its own members, stalls and products. The site looks the same everywhere.
+2. **Sign in** is in the header. Try `nakato@kingdom.church` as a member, or `admin@kfk.church` as the Kampala administrator.
+3. **Join** — choose a church and ministry. You wait until an administrator approves you before you may post.
+4. **Administrator desk** — approve people who have asked to join, then they may post what they do.
+5. **Create a Kingdom Market** for another church. You become that church’s administrator.
+6. Shop **Inside the Kingdom Walls**, add to cart, place an order. Walk **Kingdom Learn**, **Business ideas**, and **Connect**.
+
+This demo keeps your church choice, cart, join request and new stalls on this device so the site can be shared without a server.
+
+## Pages
+
+Every main page has a photograph that belongs to it: the courtyard market, the stalls, posting a stall, learning, ideas, greeting at the gates, church buildings, the open doors, a basket, and the administrator’s desk.
 
 - **Home** — Buy · Sell · Learn · Connect · Build
-- **Inside the Kingdom Walls** — every member business and product (the main market)
-- **Post what you do** — list a stall in a few minutes
+- **Inside the Kingdom Walls** — this church’s businesses and products
+- **Churches** — choose which church market to shop in
+- **Post what you do** — after the administrator welcomes you
 - **Connect** — find a baker, tailor, driver, designer
-- **Kingdom Learn** — baking, tailoring, poultry, books, hair, selling on a phone
+- **Kingdom Learn** — skills taught by members of this church
 - **Business ideas** — partners, suppliers, customers, skills
-- **Cart and checkout** — cash on delivery, church pickup, mobile money later
+- **Sign in / Join** — members only for posting
+- **Administrator desk** — permission to join and to post
 
 Prices are in UGX. Towns include Kampala, Wakiso, Mukono, Entebbe, Jinja, Mbale and others.
 
@@ -40,12 +51,8 @@ Verified Kingdom Business is the badge that matters: this seller is known in the
 
 ## Share with leadership
 
-Send pastors, sellers, and investors:
-
 1. This GitHub link: https://github.com/mukisacreating/kingdom-online-market
 2. The Pages website (after the steps above)
-
-The GitHub copy is a full visual demo that runs in the browser. Cart, orders, and new stalls stay on each visitor’s device so the site can be shared without a database.
 
 ## Brand
 

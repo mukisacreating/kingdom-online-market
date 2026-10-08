@@ -6,18 +6,25 @@
     <title>KINGDOM ONLINE MARKET</title>
     <meta
       name="description"
-      content="A marketplace inside the church community. Buy from members you know. Sell, learn, connect, and build — Inside the Kingdom Walls."
+      content="A marketplace for the church family. Choose a church Kingdom Market. Buy from members you know. Sell, learn, connect, and build — Inside the Kingdom Walls."
     />
-    <meta name="theme-color" content="#1e4338" />
+    <meta name="theme-color" content="#ebe6f6" />
     <meta property="og:title" content="KINGDOM ONLINE MARKET" />
     <meta property="og:description" content="Inside the Kingdom Walls. Buy. Sell. Learn. Connect. Build." />
     <link rel="icon" type="image/svg+xml" href="favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Outfit:wght@400;500;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap"
       rel="stylesheet"
     />
+    <script>
+      try {
+        var t = localStorage.getItem("kom-theme");
+        if (t === "dark" || (!t && matchMedia("(prefers-color-scheme: dark)").matches))
+          document.documentElement.dataset.theme = "dark";
+      } catch (e) {}
+    </script>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
